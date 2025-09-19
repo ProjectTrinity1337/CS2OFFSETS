@@ -10,8 +10,8 @@ namespace cs2_dumper {
         // Module: client.dll
         namespace client_dll {
             constexpr std::ptrdiff_t dwCSGOInput = 0x1E2C670;
-            constexpr std::ptrdiff_t dwEntityList = 0x1D05458;
-            constexpr std::ptrdiff_t dwGameEntitySystem = 0x1FA6548;
+            constexpr std::ptrdiff_t dwEntityList = 0x1D05400;
+            constexpr std::ptrdiff_t dwGameEntitySystem = 0x1FA6500;
             constexpr std::ptrdiff_t dwGameEntitySystem_highestEntityIndex = 0x20F0;
             constexpr std::ptrdiff_t dwGameRules = 0x1E21450;
             constexpr std::ptrdiff_t dwGlobalVars = 0x1BD6150;
