@@ -10,22 +10,22 @@ namespace cs2_dumper {
         // Module: client.dll
         namespace client_dll {
             constexpr std::ptrdiff_t dwCSGOInput = 0x1E2C670;
-            constexpr std::ptrdiff_t dwEntityList = 0x1D05400;
-            constexpr std::ptrdiff_t dwGameEntitySystem = 0x1FA6500;
+            constexpr std::ptrdiff_t dwEntityList = 0x1D05458;
+            constexpr std::ptrdiff_t dwGameEntitySystem = 0x1FA6548;
             constexpr std::ptrdiff_t dwGameEntitySystem_highestEntityIndex = 0x20F0;
             constexpr std::ptrdiff_t dwGameRules = 0x1E21450;
             constexpr std::ptrdiff_t dwGlobalVars = 0x1BD6150;
             constexpr std::ptrdiff_t dwGlowManager = 0x1E1E220;
-            constexpr std::ptrdiff_t dwLocalPlayerController = 0x1E0E000;
-            constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x1BE0000;
-            constexpr std::ptrdiff_t dwPlantedC4 = 0x1E27900;
-            constexpr std::ptrdiff_t dwPrediction = 0x1BE0D00;
-            constexpr std::ptrdiff_t dwSensitivity = 0x1E1ED00;
-            constexpr std::ptrdiff_t dwSensitivity_sensitivity = 0x00;
-            constexpr std::ptrdiff_t dwViewAngles = 0x1E2CE00;
-            constexpr std::ptrdiff_t dwViewMatrix = 0x1E22200;
-            constexpr std::ptrdiff_t dwViewRender = 0x1E23000;
-            constexpr std::ptrdiff_t dwWeaponC4 = 0x1DBFA00;
+            constexpr std::ptrdiff_t dwLocalPlayerController = 0x1E0E578;
+            constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x1BE0E90;
+            constexpr std::ptrdiff_t dwPlantedC4 = 0x1E27910;
+            constexpr std::ptrdiff_t dwPrediction = 0x1BE0DC0;
+            constexpr std::ptrdiff_t dwSensitivity = 0x1E1ED48;
+            constexpr std::ptrdiff_t dwSensitivity_sensitivity = 0x48;
+            constexpr std::ptrdiff_t dwViewAngles = 0x1E2CE20;
+            constexpr std::ptrdiff_t dwViewMatrix = 0x1E22220;
+            constexpr std::ptrdiff_t dwViewRender = 0x1E23040;
+            constexpr std::ptrdiff_t dwWeaponC4 = 0x1DBFAD8;
         }
         // Module: engine2.dll
         namespace engine2_dll {
