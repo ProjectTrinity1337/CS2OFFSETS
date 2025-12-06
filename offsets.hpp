@@ -1,5 +1,5 @@
-// Generated using https://github.com/a2x/cs2-dumper
-// 2025-12-06 14:46:31.207438200 UTC
+// FrezzyHook d1mp
+// 2025-12-06 00:50:21.493221 UTC
 
 #pragma once
 
@@ -30,6 +30,7 @@ namespace cs2_dumper {
         // Module: engine2.dll
         namespace engine2_dll {
             constexpr std::ptrdiff_t dwBuildNumber = 0x5F13E4;
+            constexpr std::ptrdiff_t dwNetworkGameClient = 0x8EB518;
             constexpr std::ptrdiff_t dwNetworkGameClient_clientTickCount = 0x390;
             constexpr std::ptrdiff_t dwNetworkGameClient_deltaTick = 0x23C;
             constexpr std::ptrdiff_t dwNetworkGameClient_isBackgroundMap = 0x2C1467;
