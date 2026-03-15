@@ -6174,7 +6174,7 @@ namespace cs2_dumper {
             // NetworkVarNames: m_iTotalCashSpent (int)
             // NetworkVarNames: m_iCashSpentThisRound (int)
             namespace CCSPlayerController_InGameMoneyServices {
-                constexpr std::ptrdiff_t m_iAccount = 0x40; // int32
+                constexpr std::ptrdiff_t m_iAccount = 0x2664; // int32
                 constexpr std::ptrdiff_t m_iStartAccount = 0x44; // int32
                 constexpr std::ptrdiff_t m_iTotalCashSpent = 0x48; // int32
                 constexpr std::ptrdiff_t m_iCashSpentThisRound = 0x4C; // int32
